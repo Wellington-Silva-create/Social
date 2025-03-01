@@ -35,6 +35,7 @@ iframe#tela{
 }
 section#sociais{
     text-align: right;
+    position:relative;
 }
 section#sociais img:hover{
     transform: translate(-3px,-3px);
